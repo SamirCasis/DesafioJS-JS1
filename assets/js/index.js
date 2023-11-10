@@ -31,7 +31,7 @@ const actualizarInterfaz = () => {
     valortotal.innerHTML = total.toLocaleString()
 }
 
-
+// toLocaleString para agregar el tipo de moneda local
 
 /* forma antigua
  function suma2 () {
